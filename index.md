@@ -8,7 +8,7 @@ My name is Michal Vydra, software developer. You can find my CV [here](https://g
 
 ### Master thesis
 
-#android #java #mysql 
+#android #java #mysql #spring #firebase
 
 Possibilities of Real-time Application Data Syncing on the Android Mobile Platfrom
 
@@ -24,12 +24,12 @@ Kroynet Java server is [here](https://github.com/kamikazenb/kryoNetThesis)
 
 ### Web sites
 
-#web #javascript #bootstrap
+#web #javascript #php #bootstrap
 
 I've made couple of web pages. So far i didn't used any CMS, but i've got some experiences with Joomla. Here are some examples of my web sites.
 
-[proarma.sk](https://proarma.sk)
+[proarma.sk](http://proarma.sk)
 
 [superstavby.sk](https://superstavby.sk)
 
-I didn't made whole web page. I customized it -> i created php translator from API of autovia.sk to my own, which is served to customers [rcars.sk](https://rcars.sk)
+[rcars.sk](http://rcars.sk) I didn't made whole web page. I customized it -> i created php translator from API of autovia.sk to my own, which is served to customers 
