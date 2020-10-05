@@ -1,46 +1,29 @@
-# Welcome to my personal portfolio
-
 ## Who am I?
 
 #android #java #web
 
 My name is Michal Vydra, software developer. You can find my CV [here](https://github.com/kamikazenb/kamikazenb.github.io/blob/master/src/Mychal_Vydra_CV.pdf) or on [LinkedIn](https://sk.linkedin.com/in/michal-vydra-a7045216a).
 
+## My portfolio
+
+### Master thesis
+
+#android #java #mysql 
+
+Possibilities of Real-time Application Data Syncing on the Android Mobile Platfrom
+
+This diploma thesis focuses on possibilities to synchronize data between applications for the Android mobile platform via a dedicated server. In the theoretical part, the thesis clarifies the concept of real-time synchronization and its use and then provides an overview of creating applications for the Android mobile platform. In the last chapter of the theoretical part, the thesis describes the possibilities of data syncing from the point of view of network connection, focusing on socket programming, web services and databases in real time. In the following practical part is created a design of an application syncing data using various techniques. The design is implemented and tested, while data is collected. These are evaluated and the individual techniques are compared in terms of complexity, applicability together with their advantages and disadvantages.
+
+Thesis in Slovak language (for now) can be found [here](https://theses.cz/id/5b12gh/?lang=en;zpet=%2Fvyhledavani%2F%3Fsearch%3Dsynchronizace%20android%20real-time%26start%3D1;isshlret=Android%3B)
+
+Main Android application is here [here](https://github.com/kamikazenb/androidAppThesis)
+
+Spring web service is [here](https://github.com/kamikazenb/webServicesThesis) 
+
+Kroynet Java server is [here](https://github.com/kamikazenb/kryoNetThesis) 
+
+### Web sites
+
+#web #javascript #bootstrap
 
 
-
-You can use the [editor on GitHub](https://github.com/kamikazenb/kamikazenb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kamikazenb/kamikazenb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
