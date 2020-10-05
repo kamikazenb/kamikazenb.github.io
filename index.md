@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to my personal portfolio
+
+## Who am I?
+
+#android #java #web
+
+My name is Michal Vydra, software developer. You can find my CV [here](https://github.com/kamikazenb/kamikazenb.github.io/blob/master/src/Mychal_Vydra_CV.pdf) or on [LinkedIn](https://sk.linkedin.com/in/michal-vydra-a7045216a).
+
+
+
 
 You can use the [editor on GitHub](https://github.com/kamikazenb/kamikazenb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
