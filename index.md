@@ -22,11 +22,19 @@ Spring web service is [here](https://github.com/kamikazenb/webServicesThesis)
 
 Kroynet Java server is [here](https://github.com/kamikazenb/kryoNetThesis) 
 
+### Mathematical optimization
+
+#C# #.NET #metahuristic #sofcomputing #EvolutionaryAlgorithm
+
+This was interesting school project to create implementation of RANDOM SEARCH, LOCAL SEARCH, STOCHASTIC HILL CLIMER, SIMULATED ANNEALING and DIFFERENTIAL EVOLUTION to solve test funcionts like De Jong 1, De Jong 2 and Schwefel. I've created TABU SEARCH to solve symetric travelling salesman problem. Example instances can be found [here](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/XML-TSPLIB/instances/)
+
+Programs plus builds (somewhere debug, somewhere release) and plus documentations can be found [here](https://github.com/kamikazenb/kamikazenb.github.io/blob/master/src/optimalization.zip) (layout with documentation is for now in Slovak language)
+
 ### Web sites
 
 #web #javascript #php #bootstrap
 
-I've made couple of web pages. So far i didn't used any CMS, but i've got some experiences with Joomla. Here are some examples of my web sites.
+I've made couple of web pages. So far i didn't used any CMS, but i've got experiences with Joomla. Here are some examples
 
 [proarma.sk](http://proarma.sk)
 
