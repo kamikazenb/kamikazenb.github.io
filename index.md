@@ -32,11 +32,13 @@ Programs plus builds (somewhere debug, somewhere release) and plus documentation
 
 ### Web sites
 
-#web #javascript #php #bootstrap
+#web #javascript #php #bootstrap #wordpress
 
 I've made couple of web pages. So far i didn't used any CMS, but i've got experiences with Joomla. Here are some examples
 
-[proarma.sk](http://proarma.sk)
+[webdra.sk](http://webdra.sk) 
+
+[proarma.sk](http://proarma.sk) 
 
 [superstavby.sk](https://superstavby.sk)
 
