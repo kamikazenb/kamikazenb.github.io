@@ -10,7 +10,7 @@ My name is Michal Vydra, software developer. You can contact me and find my CV o
 
 > #python #AI #NeuralNetworks #XAI #LCS
 
-Originally, I started with the theme **"Soft computing techniques for data mining and Big data analysis"** but during my study, I found a new, interesting direction in academic research, and that's **#XAI (eXplainable Aritifial Inteligence)**, which focuses on how to explain how AI (NN, ensemble, SVM...) is creating decisions. In my academic research, I want to use **#LCS (Learning Classifier System)** to create an new interpretable method for CNN.
+Originally, I started with the theme **"Soft computing techniques for data mining and Big data analysis"** but during my study, I found a new, interesting direction in academic research, and that's **#XAI (eXplainable Aritifial Inteligence)**, which focuses on the reasoning behind the decisions or predictions made by the AI(models based on NN, ensemble, SVM...), which are made more understandable and transparent. In my academic research, I want to use **#LCS (Learning Classifier System)** to create an new interpretable method for NN like CNN.
 
 ### Master thesis
 
