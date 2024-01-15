@@ -42,8 +42,6 @@ Programs plus builds (somewhere debug, somewhere release) and plus documentation
 
 I started to use Angular, but in the meantime came Svelte, which was a game changer and the new way to create larger websites. Here are some examples, which I created in pure HTML, JS, and CSS. Svelte is on the way.
 
-[ocp.webdra.sk](http://ocp.webdra.sk) _Interesting project, in which I created my own framework to edit the site's content for administrators directly from a SQL database._
-
 [proarma.sk](https://proarma.sk) 
 
 [narcistaphoto.sk](https://narcistaphoto.sk) 
